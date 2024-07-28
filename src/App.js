@@ -24,7 +24,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <h1>Kovai to Chennai</h1>
+        <h1>Chennai to Kovai</h1>
         <nav className="nav">
           <Link to="/user">
             <button>Go to User</button>
